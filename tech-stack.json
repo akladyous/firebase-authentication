@@ -1,0 +1,13 @@
+{
+    "tech stack": [
+        "React.js",
+        "React Router DOM",
+        "Redux Toolkit",
+        "React Redux",
+        "Firebase Authentication",
+        "Firestore",
+        "Create React App",
+        "React Testing Library",
+        "Moment.js"
+    ]
+}
