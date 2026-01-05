@@ -1,0 +1,19 @@
+{
+    "techstack": [
+        "React.js",
+        "React Router DOM",
+        "Redux Toolkit",
+        "React Redux",
+        "Firebase Authentication",
+        "Firestore",
+        "Create React App",
+        "React Testing Library",
+        "Moment.js"
+    ],
+    "highlights": [
+        "Developed a complete email/password authentication flow in a React application using Firebase Authentication, supporting user signup, login, logout, and secure session handling.",
+        "Implemented real-time authentication state management via custom hooks and listeners to synchronize UI state with Firebase auth events across the application.",
+        "Integrated Firestore as a NoSQL backend to persist and retrieve user profile data, separating authentication concerns from application data storage.",
+        "Designed a modular project architecture with reusable authentication utilities and optional Redux-based user state management to improve maintainability and scalability."
+    ]
+}
